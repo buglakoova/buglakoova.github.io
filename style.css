@@ -3,7 +3,7 @@ html {
    width: 100%;
    height: 100%;
    font-family: 'Montserrat', sans-serif;
-   background: url(file:///Users/annabuglakova/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/image.jpg) no-repeat center center fixed;
+   background: "image.jpg" no-repeat center center fixed;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
