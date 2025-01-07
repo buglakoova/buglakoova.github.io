@@ -25,6 +25,16 @@ hr {
     margin: 10px auto;
 }
 
+.faded {
+   color: rgba(255, 255, 255, 0.8);
+}
+
+header.startup {
+   background-position: center;
+   background-image: url("image.jpg");
+   background-size: cover;
+   height: 100%;
+}
 
 .buffer {
    height: 9rem;
